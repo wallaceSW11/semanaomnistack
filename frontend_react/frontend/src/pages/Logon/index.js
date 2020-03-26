@@ -51,6 +51,7 @@ export default function Logon() {
       </section>
 
       <img src={heroesImg} alt="Heroes" />
+     
     </div>
   )
 }

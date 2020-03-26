@@ -1,0 +1,16 @@
+
+.showmodal {
+  position: absolute;
+  width: 600px;
+  height: 200px;
+  background: red;
+  top: 100px;
+  margin-left: auto;
+  border-radius: 8px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.oculto {
+  visibility: hidden;
+}
